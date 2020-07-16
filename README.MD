@@ -3,6 +3,8 @@
 You need nodejs and npm
 
 ```
+npm install
+
 npm start
 ```
 
